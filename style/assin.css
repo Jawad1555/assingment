@@ -52,3 +52,40 @@ justify-content: space-between;
   font-size: 12px;
   margin-bottom: 23px;
 }
+.third{
+  background-color: #4d47ff1a;
+text-align: center;
+list-style: none;
+margin-top: 126px;
+height: 220px;
+padding: 50px 142px;
+border-radius: 24px;
+
+}
+.iteams{display: flex;
+  justify-content: space-between;
+  margin: 0px 40px;
+}
+.text-wrap{
+
+  margin: ;
+  gap: 100px;
+  border-radius: 30px;
+  
+  
+
+
+}
+.tex{margin: 5px;
+  background-colorbrown;}
+
+.text-pio{
+  font-size: 40px;
+font-size: 50px;
+  margin: 5px;
+font-weight: bold;
+color: #4E47FF;}
+.text-bol{font-weight: 8;}
+.about-iteam{
+  margin: 40px 10px;
+}
