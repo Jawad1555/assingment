@@ -1,0 +1,35 @@
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-variation-settings: "wdth" 100; 
+}
+
+.jio{display: flex;
+justify-content: space-between;
+ 
+}
+.heal{max-width: 1440px;
+background-image: url("/images/Hero-bg.png")
+;
+height: 200px;
+}
+.lam{color: #4E47FF;}
+  .btn{
+  color: white;
+  font-size: large;
+  
+  background-color: #4E47FF;
+border-radius: 10px;
+padding: 0 auto;
+height: 40px;
+weight: 132px;
+font-style: bold;
+}
+.middle{text-align: center;
+
+padding: 0 auto;
+}
+.pic{background-image: url("/images/Hero-bg.png");max-width: 3900px;margin: 0 auto;}
+.btn2{margin: 20px 100px 100px 80px;}
