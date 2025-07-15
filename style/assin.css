@@ -11,15 +11,16 @@
   max-width: 1440px;
 margin: 0 auto;}
 
-.jio{display: flex;
-justify-content: space-between;
-margin-left: 30px;
- 
-}
-.heal{max-width: 1440px;
+.jio {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 30px;
 
+}
+
+.heal{max-width: 1440px;
+background-image: url('/images/Hero-bg.png');
 max-width: 3900px;margin: 0 auto;
-background-image: url("/images/Hero-bg.png");
 height: 300px;
 }
 .lam{color: #4E47FF;}
